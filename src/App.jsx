@@ -1,9 +1,14 @@
 import React from 'react';
+import Background from './components/Background';
+import Foreground from './components/Foreground';
 
 const App = () => {
-    return(
+    return (
         <>
-            <div className="bg-zinc-800 w-full min-h-screen"></div>
+            <div className="relative w-full h-screen bg-zinc-800">
+                <Background />
+                <Foreground />
+            </div>
         </>
     )
 }
