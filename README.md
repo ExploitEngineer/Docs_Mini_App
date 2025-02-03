@@ -3,7 +3,7 @@
 An animated documentation app built using **React.js** and **Framer Motion**. This project provides a smooth and interactive way to display documentation with engaging animations.
 
 ## 🌐 Live Demo
-Check out the live version here: [Docs Mini App](https://docs-mini-app-rho.vercel.app)
+Check out the live version here: [Docs Mini App](https://docs-app-woad.vercel.app)
 
 ## 🚀 Features
 - 📜 **Beautiful UI** for displaying documentation.
