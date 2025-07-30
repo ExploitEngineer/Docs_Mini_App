@@ -40,9 +40,6 @@ The app will be available at `http://localhost:3000/`.
 - Experience smooth animations with Framer Motion.
 - Modify the components inside the `src/components/` directory to customize the content.
 
-## 🖼 Screenshots (Optional)
-_Add screenshots or GIFs showcasing the app's UI and animations._
-
 ## 🛠 Technologies Used
 - **React.js** – For building the UI.
 - **Framer Motion** – For animations.
